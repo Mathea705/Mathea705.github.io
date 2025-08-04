@@ -5,8 +5,8 @@
 "background_color": "#ffffff",
 "theme_color": "#00FF00",
 "icons": [
-{ "src": "images/red-circle.png",
-"sizes": "64x64",
+{ "src": "images/paint.png",
+"sizes": "192x192",
 "type": "image/png"
 }
 ]
