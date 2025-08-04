@@ -1,0 +1,13 @@
+{ "name": "The Fundamentals of Art",
+"short_name": "TFoA",
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#00FF00",
+"icons": [
+{ "src": "images/red-circle.png",
+"sizes": "64x64",
+"type": "image/png"
+}
+]
+}
